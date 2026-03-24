@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalogo_cloud empresa="TechNova Cloud" 
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:noNamespaceSchemaLocation="CatalogoCloud.xsd">
+                xsi:noNamespaceSchemaLocation="CatalogoCloud_v2.xsd"">
     
     <centro_datos ubicacion="Madrid" zona="eu-sur-1">
         
